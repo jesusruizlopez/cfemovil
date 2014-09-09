@@ -9,4 +9,4 @@ Aplicación móvil construida en iOS usando Objective-C
 ###Instalación
 Abrir el proyecto usando Xcode y compilarlo para su ejecución
 
-###[Video Demo](bit.ly/1qBciNo "Evidencia de la propuesta")
+###[Video Demo](https://bit.ly/1qBciNo "Evidencia de la propuesta")
